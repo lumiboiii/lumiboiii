@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lumiboiii
+- 👀 I’m interested in UI/UX  and android devlopment
+- 🌱 I’m currently learning Kotlin and C++
+- 💞️ I’m looking to collaborate on 
+- 📫 @ig_lumminash on instagram
