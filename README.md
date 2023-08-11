@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lumiboiii
+- 👋 Hi, I’m @luminash
 - 👀 I’m interested in UI/UX  and android devlopment
 - 🌱 I’m currently learning Kotlin and C++
 - 💞️ I’m looking to collaborate on 
